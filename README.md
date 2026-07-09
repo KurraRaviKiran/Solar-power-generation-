@@ -25,7 +25,7 @@ and seasonal patterns.
 - Target Achievement Rate (322M vs 645M)
 
 ## Dashboard Preview
-![Solar Power Dashboard](dashboard.png)
+![Solar Power Dashboard](Solar-dashboard.png)
 
 ## Tools Used
 - Power BI (Dashboard)
