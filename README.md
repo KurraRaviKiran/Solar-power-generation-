@@ -29,5 +29,4 @@ and seasonal patterns.
 
 ## Tools Used
 - Power BI (Dashboard)
-- Python, Pandas, NumPy (Data Processing)
-- Microsoft Excel (Data Cleaning)
+- Power query
